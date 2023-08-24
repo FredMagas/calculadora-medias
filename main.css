@@ -75,31 +75,3 @@ table td {
     padding: 16px 0;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
-
-table td img {
-    width: 30px;
-}
-
-.resultado {
-    padding: 8px;
-    font-weight: bold;
-    color: #fff;
-    background-color: #000;
-    border-radius: 3px;
-}
-
-.aprovado {
-    padding: 8px;
-    font-weight: bold;
-    color: #fff;
-    background-color: #009432;
-    border-radius: 3px;
-}
-
-.reprovado {
-    padding: 8px;
-    font-weight: bold;
-    color: #fff;
-    background-color: red;
-    border-radius: 3px;
-}
